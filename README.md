@@ -1,6 +1,6 @@
 three.js
 ========
-[![Coverage Status](https://coveralls.io/repos/github/<Harvey-Mlambo>/<three.js>/badge.svg?branch=master)](https://coveralls.io/github/<Harvey-Mlambo>/<three.js>?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Harvey-Mlambo/three.js/badge.svg?branch=master)](https://coveralls.io/github/Harvey-Mlambo/three.js?branch=master)
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
